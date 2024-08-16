@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CloudMessenger.Application\CloudMessenger.Application.csproj" />
+    <ProjectReference Include="..\CloudMessenger.Domain\CloudMessenger.Domain.csproj" />
+    <ProjectReference Include="..\CloudMessenger.Infra.Data\CloudMessenger.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

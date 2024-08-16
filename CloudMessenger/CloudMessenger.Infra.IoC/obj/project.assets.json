@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "CloudMessenger.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "CloudMessenger.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CloudMessenger.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CloudMessenger.Application.dll": {}
+        }
+      },
+      "CloudMessenger.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CloudMessenger.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CloudMessenger.Domain.dll": {}
+        }
+      },
+      "CloudMessenger.Infra.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "CloudMessenger.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CloudMessenger.Infra.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CloudMessenger.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CloudMessenger.Application/1.0.0": {
+      "type": "project",
+      "path": "../CloudMessenger.Application/CloudMessenger.Application.csproj",
+      "msbuildProject": "../CloudMessenger.Application/CloudMessenger.Application.csproj"
+    },
+    "CloudMessenger.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CloudMessenger.Domain/CloudMessenger.Domain.csproj",
+      "msbuildProject": "../CloudMessenger.Domain/CloudMessenger.Domain.csproj"
+    },
+    "CloudMessenger.Infra.Data/1.0.0": {
+      "type": "project",
+      "path": "../CloudMessenger.Infra.Data/CloudMessenger.Infra.Data.csproj",
+      "msbuildProject": "../CloudMessenger.Infra.Data/CloudMessenger.Infra.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "CloudMessenger.Application >= 1.0.0",
+      "CloudMessenger.Domain >= 1.0.0",
+      "CloudMessenger.Infra.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\CSP2250\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\CSP2250\\Documents\\Daniel\\repo\\cloud-messenger\\CloudMessenger\\CloudMessenger.Infra.IoC\\CloudMessenger.Infra.IoC.csproj",
+      "projectName": "CloudMessenger.Infra.IoC",
+      "projectPath": "C:\\Users\\CSP2250\\Documents\\Daniel\\repo\\cloud-messenger\\CloudMessenger\\CloudMessenger.Infra.IoC\\CloudMessenger.Infra.IoC.csproj",
+      "packagesPath": "C:\\Users\\CSP2250\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CSP2250\\Documents\\Daniel\\repo\\cloud-messenger\\CloudMessenger\\CloudMessenger.Infra.IoC\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\CSP2250\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\CSP2250\\Documents\\Daniel\\repo\\cloud-messenger\\CloudMessenger\\CloudMessenger.Application\\CloudMessenger.Application.csproj": {
+              "projectPath": "C:\\Users\\CSP2250\\Documents\\Daniel\\repo\\cloud-messenger\\CloudMessenger\\CloudMessenger.Application\\CloudMessenger.Application.csproj"
+            },
+            "C:\\Users\\CSP2250\\Documents\\Daniel\\repo\\cloud-messenger\\CloudMessenger\\CloudMessenger.Domain\\CloudMessenger.Domain.csproj": {
+              "projectPath": "C:\\Users\\CSP2250\\Documents\\Daniel\\repo\\cloud-messenger\\CloudMessenger\\CloudMessenger.Domain\\CloudMessenger.Domain.csproj"
+            },
+            "C:\\Users\\CSP2250\\Documents\\Daniel\\repo\\cloud-messenger\\CloudMessenger\\CloudMessenger.Infra.Data\\CloudMessenger.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\CSP2250\\Documents\\Daniel\\repo\\cloud-messenger\\CloudMessenger\\CloudMessenger.Infra.Data\\CloudMessenger.Infra.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Domain\bin\Debug\net5.0\CloudMessenger.Domain.deps.json
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Domain\bin\Debug\net5.0\CloudMessenger.Domain.dll
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Domain\bin\Debug\net5.0\ref\CloudMessenger.Domain.dll
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Domain\bin\Debug\net5.0\CloudMessenger.Domain.pdb
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Domain\obj\Debug\net5.0\CloudMessenger.Domain.csproj.AssemblyReference.cache
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Domain\obj\Debug\net5.0\CloudMessenger.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Domain\obj\Debug\net5.0\CloudMessenger.Domain.AssemblyInfoInputs.cache
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Domain\obj\Debug\net5.0\CloudMessenger.Domain.AssemblyInfo.cs
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Domain\obj\Debug\net5.0\CloudMessenger.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Domain\obj\Debug\net5.0\CloudMessenger.Domain.dll
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Domain\obj\Debug\net5.0\ref\CloudMessenger.Domain.dll
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Domain\obj\Debug\net5.0\CloudMessenger.Domain.pdb

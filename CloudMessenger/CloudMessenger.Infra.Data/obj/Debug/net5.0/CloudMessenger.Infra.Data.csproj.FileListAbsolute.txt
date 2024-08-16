@@ -1,0 +1,15 @@
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Infra.Data\bin\Debug\net5.0\CloudMessenger.Infra.Data.deps.json
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Infra.Data\bin\Debug\net5.0\CloudMessenger.Infra.Data.dll
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Infra.Data\bin\Debug\net5.0\ref\CloudMessenger.Infra.Data.dll
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Infra.Data\bin\Debug\net5.0\CloudMessenger.Infra.Data.pdb
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Infra.Data\bin\Debug\net5.0\CloudMessenger.Domain.dll
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Infra.Data\bin\Debug\net5.0\CloudMessenger.Domain.pdb
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Infra.Data\obj\Debug\net5.0\CloudMessenger.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Infra.Data\obj\Debug\net5.0\CloudMessenger.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Infra.Data\obj\Debug\net5.0\CloudMessenger.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Infra.Data\obj\Debug\net5.0\CloudMessenger.Infra.Data.AssemblyInfo.cs
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Infra.Data\obj\Debug\net5.0\CloudMessenger.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Infra.Data\obj\Debug\net5.0\CloudMessenger.Infra.Data.csproj.CopyComplete
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Infra.Data\obj\Debug\net5.0\CloudMessenger.Infra.Data.dll
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Infra.Data\obj\Debug\net5.0\ref\CloudMessenger.Infra.Data.dll
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Infra.Data\obj\Debug\net5.0\CloudMessenger.Infra.Data.pdb

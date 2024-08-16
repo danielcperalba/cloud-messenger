@@ -1,0 +1,15 @@
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Application\bin\Debug\net5.0\CloudMessenger.Application.deps.json
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Application\bin\Debug\net5.0\CloudMessenger.Application.dll
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Application\bin\Debug\net5.0\ref\CloudMessenger.Application.dll
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Application\bin\Debug\net5.0\CloudMessenger.Application.pdb
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Application\bin\Debug\net5.0\CloudMessenger.Domain.dll
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Application\bin\Debug\net5.0\CloudMessenger.Domain.pdb
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Application\obj\Debug\net5.0\CloudMessenger.Application.csproj.AssemblyReference.cache
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Application\obj\Debug\net5.0\CloudMessenger.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Application\obj\Debug\net5.0\CloudMessenger.Application.AssemblyInfoInputs.cache
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Application\obj\Debug\net5.0\CloudMessenger.Application.AssemblyInfo.cs
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Application\obj\Debug\net5.0\CloudMessenger.Application.csproj.CoreCompileInputs.cache
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Application\obj\Debug\net5.0\CloudMessenger.Application.csproj.CopyComplete
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Application\obj\Debug\net5.0\CloudMessenger.Application.dll
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Application\obj\Debug\net5.0\ref\CloudMessenger.Application.dll
+C:\Users\CSP2250\Documents\Daniel\repo\CloudMessenger\CloudMessenger.Application\obj\Debug\net5.0\CloudMessenger.Application.pdb

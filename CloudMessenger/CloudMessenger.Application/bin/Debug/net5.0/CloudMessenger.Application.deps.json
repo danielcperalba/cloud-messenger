@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CloudMessenger.Application/1.0.0": {
+        "dependencies": {
+          "CloudMessenger.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CloudMessenger.Application.dll": {}
+        }
+      },
+      "CloudMessenger.Domain/1.0.0": {
+        "runtime": {
+          "CloudMessenger.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CloudMessenger.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CloudMessenger.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

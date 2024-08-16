@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudMessenger.Domain", "CloudMessenger.Domain\CloudMessenger.Domain.csproj", "{0FBAB9ED-CF5C-4C2D-B2C8-C12212656362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudMessenger.Application", "CloudMessenger.Application\CloudMessenger.Application.csproj", "{C61E0076-8D34-4FC7-9774-81BC49979B27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudMessenger.Infra.Data", "CloudMessenger.Infra.Data\CloudMessenger.Infra.Data.csproj", "{50BB361D-0B40-4A7C-964F-52488F075818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudMessenger.Infra.IoC", "CloudMessenger.Infra.IoC\CloudMessenger.Infra.IoC.csproj", "{AE2E7E12-C6A3-4F67-A8EC-8339798360F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudMessenger.WebUI", "CloudMessenger.WebUI\CloudMessenger.WebUI.csproj", "{D717538F-6896-488A-94AC-3AFD688EA9CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FBAB9ED-CF5C-4C2D-B2C8-C12212656362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBAB9ED-CF5C-4C2D-B2C8-C12212656362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBAB9ED-CF5C-4C2D-B2C8-C12212656362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBAB9ED-CF5C-4C2D-B2C8-C12212656362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C61E0076-8D34-4FC7-9774-81BC49979B27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61E0076-8D34-4FC7-9774-81BC49979B27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61E0076-8D34-4FC7-9774-81BC49979B27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61E0076-8D34-4FC7-9774-81BC49979B27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50BB361D-0B40-4A7C-964F-52488F075818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50BB361D-0B40-4A7C-964F-52488F075818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50BB361D-0B40-4A7C-964F-52488F075818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50BB361D-0B40-4A7C-964F-52488F075818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE2E7E12-C6A3-4F67-A8EC-8339798360F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2E7E12-C6A3-4F67-A8EC-8339798360F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2E7E12-C6A3-4F67-A8EC-8339798360F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2E7E12-C6A3-4F67-A8EC-8339798360F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D717538F-6896-488A-94AC-3AFD688EA9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D717538F-6896-488A-94AC-3AFD688EA9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D717538F-6896-488A-94AC-3AFD688EA9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D717538F-6896-488A-94AC-3AFD688EA9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {985B35B3-3BE2-485B-8955-CA0230C90B23}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CloudMessenger.Infra.IoC/1.0.0": {
+        "dependencies": {
+          "CloudMessenger.Application": "1.0.0",
+          "CloudMessenger.Domain": "1.0.0",
+          "CloudMessenger.Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "CloudMessenger.Infra.IoC.dll": {}
+        }
+      },
+      "CloudMessenger.Application/1.0.0": {
+        "dependencies": {
+          "CloudMessenger.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CloudMessenger.Application.dll": {}
+        }
+      },
+      "CloudMessenger.Domain/1.0.0": {
+        "runtime": {
+          "CloudMessenger.Domain.dll": {}
+        }
+      },
+      "CloudMessenger.Infra.Data/1.0.0": {
+        "dependencies": {
+          "CloudMessenger.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CloudMessenger.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CloudMessenger.Infra.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CloudMessenger.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CloudMessenger.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CloudMessenger.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
